@@ -1,0 +1,39 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	font-family: arial;
+}
+
+.titulo{
+    width: 100%;
+    max-width: 400px;
+    margin: auto;
+    text-align: center;
+    background: ;
+
+}
+a{
+    text-decoration: none;
+}
+
+.carrusel{
+    position: relative;
+    top: 30px;
+    background: url(ofnp.jpg);
+    width: 100%;
+    max-width: 70%;
+    height: 500px;
+    margin: auto;
+    background:;
+}
+
+.hipers{
+    position: absolute;
+    top: 0px;
+    width: 100%;
+    max-width: 130px;
+    margin-left: 70%;
+    background:#FFFFFF;
+}
+
+
